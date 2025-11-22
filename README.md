@@ -7,6 +7,27 @@
 - 📫 How to reach me: **mithil1323@gmail.com**
 - ⚡ Fun fact: I love participating in hackathons and building innovative solutions!
 
+- ## 🏢 Open Source Contributions
+
+I contribute to major organizations and open source projects:
+
+- **Microsoft** 🏢
+  - Contributing to [PowerToys](https://github.com/microsoft/PowerToys) - Windows utilities toolkit
+  - Working on Calculator extension enhancements for Command Palette
+  - Issue #43460: Implementing 'Replace input if query ends with =' feature
+
+- **React / Meta** ⚛️
+  - Exploring contributions to React ecosystem
+  - Building projects with React and modern web technologies
+
+- **Google Projects** 🔍
+  - Interested in contributing to Google's open source initiatives
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
+[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google)
+
+
 ---
 
 ## 🛠️ My Skill Set
